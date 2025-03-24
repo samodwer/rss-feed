@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>أخبار الساحل السوري والأخبار العالمية</title>
+  <link>http://www.yourwebsite.com</link>
+  <description>أحدث الأخبار حول الأوضاع في الساحل السوري وأخبار عالمية ذات صلة</description>
+  <language>ar</language>
+
+  <item>
+    <title>مقتل عائلة كاملة بسبب انتمائهم الطائفي</title>
+    <link>http://www.yourwebsite.com/news1</link>
+    <description>تقارير عن مقتل عائلة كاملة في الساحل السوري بسبب انتمائهم الطائفي.</description>
+    <pubDate>تاريخ النشر</pubDate>
+  </item>
+
+  <item>
+    <title>العثور على مقابر جماعية للعلويين</title>
+    <link>http://www.yourwebsite.com/news2</link>
+    <description>تم العثور على مقابر جماعية للعلويين بعد المجازر التي قامت بها هيئة تحرير الشام.</description>
+    <pubDate>تاريخ النشر</pubDate>
+  </item>
+
+  <item>
+    <title>نزوح كبير للطائفة العلوية نحو لبنان</title>
+    <link>http://www.yourwebsite.com/news3</link>
+    <description>نزوح عدد كبير من الطائفة العلوية من نساء وأطفال وشيوخ باتجاه لبنان سيراً على الأقدام.</description>
+    <pubDate>تاريخ النشر</pubDate>
+  </item>
+
+  <item>
+    <title>هجوم الفصائل على منطقة الدريكيش</title>
+    <link>http://www.yourwebsite.com/news4</link>
+    <description>هجوم الفصائل على منطقة الدريكيش وأنباء عن تنفيذ مجازر بحق الأهالي من الطائفة العلوية.</description>
+    <pubDate>تاريخ النشر</pubDate>
+  </item>
+
+  <item>
+    <title>انتظار قرار مجلس الأمن بخصوص الساحل السوري</title>
+    <link>http://www.yourwebsite.com/news5</link>
+    <description>العالم ينتظر قرار مجلس الأمن الدولي بخصوص الأوضاع في الساحل السوري.</description>
+    <pubDate>تاريخ النشر</pubDate>
+  </item>
+
+  <item>
+    <title>تسريبات عن استعداد موسكو لحماية الساحل السوري</title>
+    <link>http://www.yourwebsite.com/news6</link>
+    <description>تسريبات تشير إلى استعداد موسكو لاتخاذ إجراءات لحماية الساحل السوري.</description>
+    <pubDate>تاريخ النشر</pubDate>
+  </item>
+
+  <item>
+    <title>تسريبات عن جعل الحكم لامركزي في الساحل السوري</title>
+    <link>http://www.yourwebsite.com/news7</link>
+    <description>تسريبات تفيد بخطط لجعل الحكم لامركزي في الساحل السوري.</description>
+    <pubDate>تاريخ النشر</pubDate>
+  </item>
+
+</channel>
+</rss>
